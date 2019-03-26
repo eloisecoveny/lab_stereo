@@ -1,3 +1,5 @@
+package stereo;
+
 import components.CDPlayer;
 import components.CassetteDeck;
 import components.Radio;

@@ -1,6 +1,8 @@
 import components.*;
 import org.junit.Before;
 import org.junit.Test;
+import output.MiniDisc;
+import stereo.Stereo;
 
 import static org.junit.Assert.assertEquals;
 

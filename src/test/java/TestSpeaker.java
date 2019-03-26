@@ -4,6 +4,9 @@ import components.Radio;
 import components.RecordDeck;
 import org.junit.Before;
 import org.junit.Test;
+import output.Speaker;
+import output.SpeakerType;
+import stereo.Stereo;
 
 import static org.junit.Assert.assertEquals;
 

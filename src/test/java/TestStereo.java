@@ -1,6 +1,7 @@
 import components.*;
 import org.junit.Before;
 import org.junit.Test;
+import stereo.Stereo;
 
 import static org.junit.Assert.assertEquals;
 

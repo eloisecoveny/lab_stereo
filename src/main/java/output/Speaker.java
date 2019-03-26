@@ -1,3 +1,7 @@
+package output;
+
+import stereo.Stereo;
+
 public class Speaker implements IConnect {
 
     private String make;

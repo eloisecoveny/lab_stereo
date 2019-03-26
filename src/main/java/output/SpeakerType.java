@@ -1,3 +1,5 @@
+package output;
+
 public enum SpeakerType {
 
     LEFT,
